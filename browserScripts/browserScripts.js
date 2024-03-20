@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const historyList = document.getElementById('historyList');
     const historyButton = document.getElementById('viewHistoryButton');
     let historyStack = [];
-
+// a comment
     // View history
     historyButton.addEventListener('click', function () {
         // Toggle the visibility of the history container

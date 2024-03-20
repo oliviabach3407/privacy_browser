@@ -14,7 +14,7 @@ async function enableAdBlocker() {
   } catch (error) {
     console.error('Error enabling ad and tracker blocker:', error);
   }
-}
+}// a comment
 
 function createWindow() {
   const mainWindow = new BrowserWindow({

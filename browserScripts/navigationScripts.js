@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     //function to navigate to the home page
     function goHome() {
         webview.loadURL("https://coveryourtracks.eff.org/");
-    }
+    } //a commentks
     homeButton.addEventListener('click', goHome);
 
     //function to navigate back
